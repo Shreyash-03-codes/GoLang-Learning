@@ -77,14 +77,8 @@
 │   ├── csv/
 │   └── xml/
 │
-├── 13-testing/
-│   ├── unit-tests/
-│   ├── table-driven-tests/
-│   ├── benchmarks/
-│   ├── mocks/
-│   └── coverage/
 │
-├── 14-standard-library/
+├── 13-standard-library/
 │   ├── fmt/
 │   ├── os/
 │   ├── io/
@@ -93,53 +87,3 @@
 │   ├── strconv/
 │   ├── regexp/
 │   └── context/
-│
-├── 15-design-patterns/
-│   ├── singleton/
-│   ├── factory/
-│   ├── builder/
-│   ├── strategy/
-│   └── observer/
-│
-├── 16-database/
-│   ├── postgres/
-│   ├── mysql/
-│   ├── sql-package/
-│   ├── gorm/
-│   └── migrations/
-│
-├── 17-web-development/
-│   ├── net-http/
-│   ├── routing/
-│   ├── middleware/
-│   ├── authentication/
-│   ├── jwt/
-│   └── rest-api/
-│
-├── 18-advanced/
-│   ├── reflection/
-│   ├── unsafe/
-│   ├── memory-management/
-│   ├── profiling/
-│   ├── race-detector/
-│   └── performance-tuning/
-│
-├── 19-system-design-examples/
-│   ├── url-shortener/
-│   ├── rate-limiter/
-│   ├── cache/
-│   └── message-queue/
-│
-├── 20-projects/
-│   ├── cli-todo/
-│   ├── file-organizer/
-│   ├── web-scraper/
-│   ├── rest-api/
-│   ├── chat-app/
-│   └── microservice/
-│
-└── interview-prep/
-    ├── coding-problems/
-    ├── concurrency-problems/
-    ├── system-design/
-    └── go-interview-questions/ ```
